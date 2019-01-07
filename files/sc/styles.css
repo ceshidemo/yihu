@@ -1,5 +1,6 @@
 ﻿body {
   margin:0px;
+  background-color:rgba(215, 215, 215, 1);
   background-image:none;
   position:static;
   left:auto;
@@ -193,7 +194,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:752px;
+  top:0px;
   width:80px;
   height:56px;
   overflow:hidden;
@@ -202,9 +203,9 @@
 #u17 {
   border-width:0px;
   position:absolute;
-  left:80px;
-  top:752px;
-  width:85px;
+  left:85px;
+  top:0px;
+  width:80px;
   height:56px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
